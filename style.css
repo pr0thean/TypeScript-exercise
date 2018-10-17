@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background-image: url(connectwork.png); /*www.toptal.com/designers/subtlepatterns/*/ 
+}
+#container {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    color: white;
+}
+#infoWarrior {
+    background-color: blue;
+    padding: 10px;
+    font-size: 30px;
+    width: 575px;
+    text-align: center;
+    float: left;
+    letter-spacing: 2px;
+}
+#infoMonster {
+    background-color: darkred;
+    padding: 10px;
+    font-size: 30px;
+    width: 575px;
+    text-align: center;
+    float: left;
+    letter-spacing: 2px;
+}
+.action {
+    background-color: black;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 2px;
+    width: 200px;
+    float: left;
+}
+
+button {
+    background-color: gray;
+    color: white;
+    font-weight: 700;
+    font-size: 25px;
+    margin: 5px;
+    padding: 3px;
+    letter-spacing: 2px;
+}
+
